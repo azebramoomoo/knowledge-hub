@@ -1,5 +1,5 @@
 ---
-title: "Learn Theme for Hugo"
+title: "Welcome!"
 ---
 
 ![ClimateTown Knowledge Hub](images/index/knowledge-hub-banner.png)
